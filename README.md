@@ -1,5 +1,3 @@
-# PowerBI_Starter-Sales_-Project
-
 ## 📊 Starter Sales Analysis Dashboard (Power BI)
 
 **A foundational Business Intelligence report built in Power BI Desktop, focused on analyzing core sales metrics, customer demographics, and product performance to drive actionable business insights.**
